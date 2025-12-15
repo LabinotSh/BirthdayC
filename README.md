@@ -33,3 +33,6 @@ No frameworks. No libraries. No build step.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/happy-birthday-app.git
+
+2. cd happy-birthday-app
+3. Double-click it or Right-click → Open with browser
